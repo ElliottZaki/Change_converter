@@ -1,1 +1,1 @@
-require './lib/change_converter.rb'
+require './lib/change_generator.rb'
