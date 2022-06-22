@@ -2,7 +2,7 @@
 Change converter - Process review exercise.
 
 # Motivation:
-Create a programme that given given a number in pounds and pence, work out the most efficient way of breaking it down into notes and coins, e.g. 11.55 becomes ["£10", "£1", "50p", "5p"].
+Create a programme that given a number in pounds and pence, work out the most efficient way of breaking it down into notes and coins, e.g. 11.55 becomes ["£10", "£1", "50p", "5p"].
 
 # Acceptance Criteria
 change_generator.convert(6.42)<br> 
